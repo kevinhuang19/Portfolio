@@ -34,6 +34,6 @@ export const ProjectList = [
     name: "Portfolio",
     image: Proj5,
     skills: "JavaScript,HTML,CSS, ReactJS",
-    github: "https://github.com/kevinhuang19/",
+    github: "https://github.com/kevinhuang19/Portfolio",
   },
 ];
